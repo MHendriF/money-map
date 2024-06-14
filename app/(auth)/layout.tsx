@@ -31,9 +31,9 @@ export default function AuthLayout({ children }: { children: React.ReactNode }) 
             <p className="mt-4 leading-relaxed text-white/90">
               Your ultimate personal finance companion. MoneyMap helps you track your income, expenses, and savings
               effortlessly. With an intuitive interface and powerful features, you can visualize your financial journey,
-              set budgeting goals, and make informed decisions to stay on top of your finances. Whether you're planning
-              for a big purchase or simply want to manage daily expenses, MoneyMap guides you every step of the way.
-              Navigate your financial future with confidence and ease.
+              set budgeting goals, and make informed decisions to stay on top of your finances. Whether you&rsquo;re
+              planning for a big purchase or simply want to manage daily expenses, MoneyMap guides you every step of the
+              way. Navigate your financial future with confidence and ease.
             </p>
           </div>
         </section>
