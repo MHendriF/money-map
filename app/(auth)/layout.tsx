@@ -26,12 +26,14 @@ export default function AuthLayout({ children }: { children: React.ReactNode }) 
               </svg>
             </a>
 
-            <h2 className="mt-6 text-2xl font-bold text-white sm:text-3xl md:text-4xl">Welcome to VerzuMeet</h2>
+            <h2 className="mt-6 text-2xl font-bold text-white sm:text-3xl md:text-4xl">Welcome to MoneyMap</h2>
 
             <p className="mt-4 leading-relaxed text-white/90">
-              The cutting-edge platform designed to transform your virtual meeting experience. Whether you&rsquo;re
-              connecting with colleagues, friends, or clients, VerzuMeet offers an intuitive, reliable, and feature-rich
-              environment for seamless communication.
+              Your ultimate personal finance companion. MoneyMap helps you track your income, expenses, and savings
+              effortlessly. With an intuitive interface and powerful features, you can visualize your financial journey,
+              set budgeting goals, and make informed decisions to stay on top of your finances. Whether you're planning
+              for a big purchase or simply want to manage daily expenses, MoneyMap guides you every step of the way.
+              Navigate your financial future with confidence and ease.
             </p>
           </div>
         </section>
@@ -55,9 +57,11 @@ export default function AuthLayout({ children }: { children: React.ReactNode }) 
               <h1 className="mt-2 text-2xl font-bold text-white sm:text-3xl md:text-4xl">Welcome to VerzuMeet</h1>
 
               <p className="mt-4 leading-relaxed text-gray-500 dark:text-gray-400 mb-4">
-                The cutting-edge platform designed to transform your virtual meeting experience. Whether you&rsquo;re
-                connecting with colleagues, friends, or clients, VerzuMeet offers an intuitive, reliable, and
-                feature-rich environment for seamless communication.
+                Your ultimate personal finance companion. MoneyMap helps you track your income, expenses, and savings
+                effortlessly. With an intuitive interface and powerful features, you can visualize your financial
+                journey, set budgeting goals, and make informed decisions to stay on top of your finances. Whether
+                you're planning for a big purchase or simply want to manage daily expenses, MoneyMap guides you every
+                step of the way. Navigate your financial future with confidence and ease.
               </p>
             </div>
 
